@@ -1,3 +1,7 @@
+This can cleanly convert a GPTNeo Model to Pytorch models!!!!!
+
+Its a bit broken so you have to manually copy the base package into the site-packages manually
+
 
 ## Pytorch model for https://github.com/imcaspar/gpt2-ml
 
